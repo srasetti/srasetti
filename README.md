@@ -5,11 +5,13 @@ Fork on GitHub700
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A recently Le Wagon bootcamp graduated</h3>
 
-- 🔭 I’m currently working on [my portfolio, here is the first personal project](https://github.com/srasetti/bixi)
+- 🔭 I’m currently working on my portfolio, 
+   * [here is the first personal project using pandas and API](https://github.com/srasetti/bixi)
+   * [And here my second one using Postgresql and SQL requests](https://github.com/srasetti/imdb/blob/main/imdb.ipynb)
 
 - 🌱 I’m currently learning **Data Engineering stuff, like Spark**
 
-- 👯 I’m looking to work on **a SQL project and a Spark one**
+- 👯 I’m looking to work on **a Django and a Spark project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
