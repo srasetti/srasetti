@@ -7,7 +7,7 @@ Fork on GitHub700
 
 - 🔭 I’m currently working on my portfolio, 
    * [here is the first personal project using pandas and API](https://github.com/srasetti/bixi)
-   * [And here my second one using Postgresql and SQL requests](https://github.com/srasetti/imdb/blob/main/imdb.ipynb)
+   * [And here my second one using Postgresql and SQL requests](https://github.com/srasetti/imdb)
 
 - 🌱 I’m currently learning **Data Engineering stuff, like Spark**
 
