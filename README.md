@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo3852
-Fork on GitHub700
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I graduated with Le Wagon bootcamp 2020</h3>
 
