@@ -3,15 +3,13 @@ GitHub Profile README Generator
 Star this repo3852
 Fork on GitHub700
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A recently Le Wagon bootcamp graduated</h3>
+<h3 align="center">I graduated with Le Wagon bootcamp 2020</h3>
 
-- 🔭 I’m currently working on my portfolio, 
+- 🔭 Here are some post bootcamp projects for my portfolio: 
    * [here is the first personal project using pandas and API](https://github.com/srasetti/bixi)
    * [And here my second one using Postgresql and SQL requests](https://github.com/srasetti/imdb)
 
-- 🌱 I’m currently learning **Data Engineering stuff, like Spark**
-
-- 👯 I’m looking to work on **a Django and a Spark project**
+- 🌱 I’m currently **Data Analyst @ Ludia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
